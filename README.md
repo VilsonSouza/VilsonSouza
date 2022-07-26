@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Vilson
 
 - 🔭 Hoje eu busco emprego no front-end ...
-- 🌱 estou estudando javascript...
 
 <div>
   <a href="https://github.com/VilsonSouza">
@@ -20,3 +19,7 @@
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 </div>
+<div>
+    <a href="https://www.linkedin.com/in/vilsonsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ </div>
