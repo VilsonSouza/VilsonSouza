@@ -11,7 +11,7 @@
   
   <h2>Linguagens em aprendizado</h2><br>
  <div style="display: inline_block"><br>
-  <img align="center" alt="Vilson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/Java-original.svg">
+  <img align="center" alt="Vilson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Vilson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vilson-C" height="30" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
