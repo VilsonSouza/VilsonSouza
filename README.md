@@ -5,6 +5,7 @@
 <div align="center">
   <a href="https://github.com/VilsonSouza">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VilsonSouza&layout=compact)](https://github.com/VilsonSouza/github-readme-stats)
+  ![Vilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=VilsonSouza&show_icons=true&theme=dracula)
 
 </div>
  
