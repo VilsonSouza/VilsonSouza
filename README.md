@@ -4,8 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/VilsonSouza">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VilsonSouza&layout=compact)]
-  ![Vilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=VilsonSouza&show_icons=true&theme=dracula)
+  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VilsonSouza&layout=compact)]</a>
 
 </div>
  
