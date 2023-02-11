@@ -11,7 +11,7 @@
 
 
 <!--gráfico das contribuições do github-->
-![Contribution](https://activity-graph.herokuapp.com/graph?username=VilsonSouza&theme=gotham&hide_border=true&area=true)
+
 
 
 
