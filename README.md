@@ -4,15 +4,31 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vilson+Souza;I'm+from+Brasil,+SP;I'm+studying+analysis+and+development+of+systems;)](https://git.io/typing-svg)
 
 
-<!--redes sociais-->
+<!--div das linguagens mais usadas e badges-->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vilsonsouza&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vilson Stats" /> 
 
+</div>
+
+
+
+
+
+
+<!--cards conquistas e ig-->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vilsonsouza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<!--redes sociais-->
 ### Redes Sociais:
 
 <div align="left">  
 <a href="https://www.instagram.com/study_souzaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/vilsonsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-
+  
+<!--habilidades-->
 ### Habilidades:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
