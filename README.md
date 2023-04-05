@@ -6,8 +6,8 @@
 
 <!--div das linguagens mais usadas e badges-->
 <div align="center">  
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonsouza&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  ![Vilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilsonsouza&hide=contribs,prs)
+
 </div>
 
 
