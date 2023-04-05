@@ -7,7 +7,7 @@
 <!--div das linguagens mais usadas e badges-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilsonsouza)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonsouza)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--redes sociais-->
 ### Redes Sociais:
