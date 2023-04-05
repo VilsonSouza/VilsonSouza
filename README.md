@@ -5,10 +5,7 @@
 
 
 <!--div das linguagens mais usadas e badges-->
-<div align="center">  
- 
-  <img width="41%" height="195px" src=" https://github-readme-stats.vercel.app/api?username=[vilsonsouza]"/>
-</div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
