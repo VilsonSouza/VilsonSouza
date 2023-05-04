@@ -6,8 +6,8 @@
 
 <!--div das linguagens mais usadas e badges-->
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vilsonsouza&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonsouza&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vilsonsouza&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonsouza&show_icons=true&theme=dark)
 
 <!--redes sociais-->
 ### Redes Sociais:
