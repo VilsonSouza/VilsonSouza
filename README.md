@@ -4,7 +4,7 @@
 
 ### 🙋 Sobre mim
 
-💻 Suporte de TI em transição para **Desenvolvimento Back-End & QA**
+💻 Assistente de TI | Transicionando para **Back-End & DevOps**
 🎓 Análise e Desenvolvimento de Sistemas — Fatec Campinas
 📍 São Paulo, Brasil
 
@@ -26,8 +26,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Peguei os badges diretamente da fonte. Aqui está a seção pronta para adicionar ao seu README:
-markdown---
+
 
 ### 📖 Atualmente estudando
 
